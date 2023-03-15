@@ -1,5 +1,9 @@
 [
   {
+    "package": "gdata",
+    "oncran": true
+  },
+  {
     "package": "gtools",
     "oncran": true
   }
