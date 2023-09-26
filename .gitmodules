@@ -8,3 +8,6 @@
 [submodule "gtools"]
 	path = gtools
 	url = https://github.com/r-gregmisc/gtools
+[submodule "mcgibbsit"]
+	path = mcgibbsit
+	url = https://github.com/r-gregmisc/mcgibbsit
