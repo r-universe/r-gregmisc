@@ -5,6 +5,9 @@
 [submodule "gdata"]
 	path = gdata
 	url = https://github.com/r-gregmisc/gdata
+[submodule "gmodels"]
+	path = gmodels
+	url = https://github.com/r-gregmisc/gmodels
 [submodule "gtools"]
 	path = gtools
 	url = https://github.com/r-gregmisc/gtools
